@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... WordPress, PHP, JavaScript, Python
 - 🌱 I’m currently learning ... WordPress plugin development.
 - 💞️ I’m looking to collaborate on ... WordPress
-- 📫 How to reach me ... jrutherford1@me.com
+- 📫 How to reach me ... johnrr3@illinois.edu
 
 <!---
 Jrutherford1/Jrutherford1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
