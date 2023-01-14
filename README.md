@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jrutherford1
-- 👀 I’m interested in ... WordPress, PHP, JavaScript, Python
-- 🌱 I’m currently learning ... WordPress plugin development.
+- 👀 I’m interested in ... WordPress, PHP, JavaScript, Python, Semantic Web
+- 🌱 I’m currently learning ... JavaScript and RDF and OWL
 - 💞️ I’m looking to collaborate on ... WordPress
 - 📫 How to reach me ... johnrr3@illinois.edu
 
